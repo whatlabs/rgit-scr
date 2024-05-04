@@ -1,0 +1,3 @@
+[submodule "rgsm-0"]
+	path = rgsm-0
+	url = git@github.com:whatlabs/rgsm-0.git
